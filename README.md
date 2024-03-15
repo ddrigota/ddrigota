@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dmitry</h1>
 <h3 align="center">An aspring frontend developer currently living in Portugal</h3>
 
-- 👨‍💻 All of my projects are available at [ddrigota.com](ddrigota.com)
-
 - 📫 How to reach me **drigota@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
