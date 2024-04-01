@@ -1,9 +1,8 @@
 <h1 align="left">Hi 👋, I'm Dmitry</h1>
 <p align="left">A frontend developer currently living in Portugal. Looking for a remote job opportunity all over the world. Or a on-site job in mainland Portugal</p>
 
-- 📫 You can reach me at **drigota@gmail.com**
-
-<h3 align="left">Or connect with me here:</h3>
+📫 You can reach me at **drigota@gmail.com**
+Or connect with me here:
 <p align="left">
 <a href="https://linkedin.com/in/dmitry-drigota-19a552296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dmitry-drigota-19a552296" height="30" width="40" /></a>
 <a href="https://instagram.com/trikota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trikota" height="30" width="40" /></a>
