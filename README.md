@@ -38,11 +38,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/>
 </p>
 <h2 align="left">Currently exploring:</h2>
+<p align="left"> 
    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> 
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXWpKssafdf9WKmMrMR2kWeMqmfHH5ljRQ5ICqgATmbg&s" alt="vue" width="40" height="40"/> 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> 
-
-
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/120px-Node.js_logo.svg.png" alt="nodejs" width="40" height="40"/> 
+</p>
 
 <h2 align="left">My Latest projects in a pinned section below:</h2>
 
