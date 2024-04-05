@@ -19,8 +19,7 @@ In my spare time, I read books and articles on development, play guitar and drum
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="dmitry-drigota-19a552296"
-      height="30"
-      width="40"
+      width="30"
   /></a>
   <a
     href="t.me/trkota"
