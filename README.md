@@ -22,7 +22,7 @@ In my spare time, I read books and articles on development, play guitar and drum
       width="30"
   /></a>
   <a
-    href="t.me/trkota"
+    href="https://t.me/trkota"
     target="blank"
     ><img
       align="center"
