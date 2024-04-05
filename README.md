@@ -23,11 +23,11 @@ In my spare time, I read books and articles on development, play guitar and drum
       width="40"
   /></a>
   <a
-    href="https://instagram.com/trikota"
+    href="t.me/trkota"
     target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      src="https://github.com/ddrigota/ddrigota/assets/67043858/9890f266-2977-4cd9-8f45-0bb3e05199a8"
       alt="trikota"
       height="30"
       width="40"
