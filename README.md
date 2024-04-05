@@ -2,6 +2,13 @@
 
 A frontend developer currently living in Portugal. Looking for a remote job opportunity all over the world. Or an on-site job in mainland Portugal.
 
+I like to create something new.
+
+I used to work on marketing campaigns, helping big brands to prove themselves on the market. I learned to look for non-standard solutions, to work in a constantly changing environment, and, most importantly, to manage myself and interact productively with large teams.
+
+Now I've moved into web development. The feeling when you see your code working cannot be conveyed in words.
+In my spare time, I read books and articles on development, play guitar and drums.
+
 📫 You can reach me at **drigota@gmail.com** or connect with me here:
 
 <p align="left">
