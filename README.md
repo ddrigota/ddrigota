@@ -30,7 +30,7 @@ In my spare time, I read books and articles on development, play guitar and drum
       src="https://web.telegram.org/a/get/icon-electron-macos.png"
       alt="trikota"
       height="30"
-      width="40"
+      width="30"
   /></a>
 </p>
 
