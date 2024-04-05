@@ -27,7 +27,7 @@ In my spare time, I read books and articles on development, play guitar and drum
     target="blank"
     ><img
       align="center"
-      src="https://github.com/ddrigota/ddrigota/assets/67043858/9890f266-2977-4cd9-8f45-0bb3e05199a8"
+      src="https://web.telegram.org/a/get/icon-electron-macos.png"
       alt="trikota"
       height="30"
       width="40"
