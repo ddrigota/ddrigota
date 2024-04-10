@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dmitry
 
-A frontend developer currently living in Portugal. Looking for a remote job opportunity all over the world. Or an on-site job in mainland Portugal.
+A frontend developer currently living in Lisbon. Looking for a remote job opportunity all over the world. Or an on-site job in mainland Portugal.
 
 I like to create something new.
 
