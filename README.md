@@ -1,13 +1,8 @@
 # Hi 👋, I'm Dmitry
 
-A frontend developer currently living in Lisbon. Looking for a remote job opportunity all over the world. Or an on-site job in mainland Portugal.
-
-I like to create something new.
-
-I used to work on marketing campaigns, helping big brands to prove themselves on the market. I learned to look for non-standard solutions, to work in a constantly changing environment, and, most importantly, to manage myself and interact productively with large teams.
-
-Now I've moved into web development. The feeling when you see your code working cannot be conveyed in words.
-In my spare time, I read books and articles on development, play guitar and drums.
+Frontend Software Engineer with 2 years of experience focusing on building fast and responsive web applications using React and Typescript.
+Creative problem-solver who finds the most suitable and elegant solution, anticipates risks, understands business needs, and effectively communicates with teams, leveraging a marketing background.
+I transitioned from marketing to development because I have a passion for continuous learning. I am inspired by the challenge of solving complex problems and the satisfaction of seeing the results of my work. This career shift allows me to focus on what I love most: tackling difficult tasks and constantly expanding my expertise.
 
 📫 You can reach me at **drigota@gmail.com** or connect with me here:
 
@@ -43,6 +38,7 @@ In my spare time, I read books and articles on development, play guitar and drum
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/></code>
+	<code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code>
 	<code><img width="40" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/></code>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/></code>
@@ -59,10 +55,8 @@ In my spare time, I read books and articles on development, play guitar and drum
 ## Currently exploring:
 
 <p align="left">
-<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js"/></code>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
-	<code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code>
 	<code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/e56b5093-2f58-40cc-b194-5bdde41077b5" alt="Svelte" title="Svelte"/></code>
 </p>
 
-## My Latest projects in a pinned section below:
